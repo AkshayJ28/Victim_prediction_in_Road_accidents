@@ -1,2 +1,2 @@
 # Road_accident_victim_prediction
-Road accident victim prediction for Insurance company
+Victim Prediction in Road accident using Machine Learning Algorithms
